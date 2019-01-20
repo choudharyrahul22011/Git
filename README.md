@@ -68,8 +68,8 @@ git status
 git stash pop once that work is done, you can pop the work from stash for commit
 git commit -am "stash pop run for readme" commit stash work
 
-git remote add origin your git url
-
+git remote add origin your git url remote repo name is origin
+git push -u origin master --tags remote repo name is origin and local repo which we want to push is master
 
 
 
