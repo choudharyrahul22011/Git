@@ -1,0 +1,7 @@
+This is sample file
+# which was added on 19-Jan-2019
+<<<<<<< HEAD
+New code added in master
+=======
+New code added in branch-1
+>>>>>>> branch-1
